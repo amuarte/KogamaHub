@@ -1,1 +1,1 @@
-# KogamaHub
+# kogama-game-list
